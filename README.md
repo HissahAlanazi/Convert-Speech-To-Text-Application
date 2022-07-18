@@ -6,5 +6,4 @@ In this project, the Arabic voice was converted to text using JavaScript
                                                                                                                                                                    
 <img width="960" alt="Screenshot " src="https://user-images.githubusercontent.com/85851678/179468474-fc8c38f1-0a0b-4001-9349-4db0a3476c7d.png">
                                                                                                                                                                    
-You Can See Second mission about how Connecting ESP32 with Arduino 
-https://github.com/HissahAlanazi/Connecting-ESP32-with-Arduino-
+### You Can See Second mission about how Connecting ESP32 with Arduino https://github.com/HissahAlanazi/Connecting-ESP32-with-Arduino-
